@@ -81,6 +81,7 @@ This project demonstrates how data analysis can:
 **Janet James**  
  Aspiring Data Analyst  
  GitHub: https://github.com/janetjames-j
+ project repository:https://github.com/janetjames-j/market-analysis-sales-trend.git
 
 ---
 
